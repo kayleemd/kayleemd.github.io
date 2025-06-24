@@ -9,7 +9,7 @@ baseurl:
 # Title of the Site
 title: Kaylee Downhower
 # Description of the Site
-description: Full time Computer engginering and Game Design student at Michigan State University
+description: Full time Computer Engineering and Game Design student at Michigan State University
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -26,8 +26,8 @@ email: downhowe@msu.edu
 facebook_username:
 twitter_username:
 instagram_username:
-linkedin_username: kaylee_downhower
-github_username:  kayleemd
+linkedin_username: /kaylee_downhower
+github_username: kayleemd
 youtube_channel_id: 
 reddit_username: /
 behance_username: /
