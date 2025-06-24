@@ -7,28 +7,28 @@ url: ''
 baseurl: 
 
 # Title of the Site
-title: What A Theme
+title: Kaylee Downhower
 # Description of the Site
-description: A customizable Jekyll portfolio theme
+description: Full time Computer engginering and Game Design student at Michigan State University
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
-site-keywords: Site, Template, Theme
+site-keywords: Student, Resume, Portfolio, Computer Engineering
 # URL for the Image of custom Favicon
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+heroimage: https://static.vecteezy.com/system/resources/previews/001/879/912/non_2x/geometric-tech-shape-background-free-vector.jpg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: thedevslot@gmail.com
-facebook_username: thedevslot
-twitter_username: thedevslot
-instagram_username: thedevslot
-linkedin_username: thedevslot
-github_username:  thedevslot
-youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
+email: downhowe@msu.edu
+facebook_username:
+twitter_username:
+instagram_username:
+linkedin_username: kaylee_downhower
+github_username:  kayleemd
+youtube_channel_id: 
 reddit_username: /
 behance_username: /
 dribbble_username: /
